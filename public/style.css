@@ -1,0 +1,13 @@
+.menu a {
+    color: white;
+    background-color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+    }
+    
+    .menu a:hover {
+    color: black;
+    background-color: #ddd;
+    }
+    
